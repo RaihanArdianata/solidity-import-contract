@@ -13,8 +13,14 @@
 				"type": "function"
 			},
 			{
-				"inputs": [],
-				"name": "simpleStorage",
+				"inputs": [
+					{
+						"internalType": "uint256",
+						"name": "",
+						"type": "uint256"
+					}
+				],
+				"name": "simpleStorageArray",
 				"outputs": [
 					{
 						"internalType": "contract SimpleStorage",
@@ -62,11 +68,11 @@
 			]
 		},
 		"storage-factory-fcc-new/StorageFactory.sol": {
-			"keccak256": "0x48dbcc28dede0a1df49ef159aca11460790fd67e41aa9f1b8adf8e94915494e2",
+			"keccak256": "0x4eb8007115c4d63eb4300420d556c3bdb5f81e49f7ca22679468df4a44475152",
 			"license": "MIT",
 			"urls": [
-				"bzz-raw://f3d3621aebbd96ff6fbaac680ea5522192e1ffdbb0829ee3de632ee578b398bd",
-				"dweb:/ipfs/QmcZYtQ7TxMLbfWqTpd78rGmAwVLeZwu9xoiNFtGpsGYwG"
+				"bzz-raw://8df97c7446dd8e9aa64347ce4afc945e4d0bf7098293d894144e8e25ec19cb56",
+				"dweb:/ipfs/QmUR4J1EohoaS968F2nGRzzDa8ng8rTxp6uqny9PBQtuie"
 			]
 		}
 	},
