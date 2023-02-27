@@ -53,12 +53,20 @@
 		"remappings": []
 	},
 	"sources": {
-		"storage-factory-fcc-new/StorageFactory.sol": {
-			"keccak256": "0xce124bf518641206256d2a1800fd7ccf2862b8ac3bad6c67801769d84bc19b16",
+		"storage-factory-fcc-new/SimpleStorage.sol": {
+			"keccak256": "0xbb96933294c568dea652082c28c2e2c766eea2471bf651b02f67a698847527f5",
 			"license": "MIT",
 			"urls": [
-				"bzz-raw://938129d2bf20d94f6b1c0a641a63b8860c9e4f28d297b907ff5da237b2358eed",
-				"dweb:/ipfs/QmRfJWMccfK8SpjphTbgHA1VbRRPvef6i9FY5JUxbjGFE1"
+				"bzz-raw://7f789849e9ea3eb7a1c66d6d72d9fc4fbb14a2cb8da70155d6aa1c2c00010935",
+				"dweb:/ipfs/QmTw8tQjUhGb1m4FJCiPdrdn2iPQz6HfYZ7j4Mg6pzLW8R"
+			]
+		},
+		"storage-factory-fcc-new/StorageFactory.sol": {
+			"keccak256": "0x48dbcc28dede0a1df49ef159aca11460790fd67e41aa9f1b8adf8e94915494e2",
+			"license": "MIT",
+			"urls": [
+				"bzz-raw://f3d3621aebbd96ff6fbaac680ea5522192e1ffdbb0829ee3de632ee578b398bd",
+				"dweb:/ipfs/QmcZYtQ7TxMLbfWqTpd78rGmAwVLeZwu9xoiNFtGpsGYwG"
 			]
 		}
 	},
