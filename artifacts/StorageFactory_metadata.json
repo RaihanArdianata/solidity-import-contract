@@ -1,0 +1,66 @@
+{
+	"compiler": {
+		"version": "0.8.13+commit.abaa5c0e"
+	},
+	"language": "Solidity",
+	"output": {
+		"abi": [
+			{
+				"inputs": [],
+				"name": "createSimpleStorageContract",
+				"outputs": [],
+				"stateMutability": "nonpayable",
+				"type": "function"
+			},
+			{
+				"inputs": [],
+				"name": "simpleStorage",
+				"outputs": [
+					{
+						"internalType": "contract SimpleStorage",
+						"name": "",
+						"type": "address"
+					}
+				],
+				"stateMutability": "view",
+				"type": "function"
+			}
+		],
+		"devdoc": {
+			"kind": "dev",
+			"methods": {},
+			"version": 1
+		},
+		"userdoc": {
+			"kind": "user",
+			"methods": {},
+			"version": 1
+		}
+	},
+	"settings": {
+		"compilationTarget": {
+			"storage-factory-fcc-new/StorageFactory.sol": "StorageFactory"
+		},
+		"evmVersion": "london",
+		"libraries": {},
+		"metadata": {
+			"bytecodeHash": "ipfs"
+		},
+		"optimizer": {
+			"enabled": false,
+			"runs": 200
+		},
+		"remappings": []
+	},
+	"sources": {
+		"storage-factory-fcc-new/StorageFactory.sol": {
+			"keccak256": "0xce124bf518641206256d2a1800fd7ccf2862b8ac3bad6c67801769d84bc19b16",
+			"license": "MIT",
+			"urls": [
+				"bzz-raw://938129d2bf20d94f6b1c0a641a63b8860c9e4f28d297b907ff5da237b2358eed",
+				"dweb:/ipfs/QmRfJWMccfK8SpjphTbgHA1VbRRPvef6i9FY5JUxbjGFE1"
+			]
+		}
+	},
+	"version": 1
+}
